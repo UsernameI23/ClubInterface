@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubInterface", "ClubInterface\ClubInterface.csproj", "{9C3BD963-0F8F-407A-AEE8-BA580E284483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C3BD963-0F8F-407A-AEE8-BA580E284483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3BD963-0F8F-407A-AEE8-BA580E284483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3BD963-0F8F-407A-AEE8-BA580E284483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3BD963-0F8F-407A-AEE8-BA580E284483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDBE2750-A710-4DFA-9F4D-C572661EB627}
+	EndGlobalSection
+EndGlobal
